@@ -1,5 +1,3 @@
-
-
 region                   = "us-west-2"
 availability_zones_count = 2
 
